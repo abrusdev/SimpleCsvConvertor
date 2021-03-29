@@ -1,0 +1,12 @@
+{
+    "name": "abrusdev/task1",
+    "authors": [
+        {
+            "name": "abrusdev",
+            "email": "abrusdev@gmail.com"
+        }
+    ],
+    "require": {
+        "asan/phpexcel": "^2.0"
+    }
+}
